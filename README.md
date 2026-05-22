@@ -42,12 +42,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mushrifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mushrifa-Muzammil&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 | Platform | Link |
