@@ -49,6 +49,7 @@
 | **GitHub** | [github.com/Mushrifa-Muzammil](https://github.com/Mushrifa-Muzammil) |
 | **LinkedIn** | [linkedin.com/in/mushrifa-muzammil](https://linkedin.com/in/mushrifa-muzammil) |
 | **Email** | musrifa.musammil@gmail.com |
+| **portfolio** | [mushrifa-muzammil.github.io/portfolio/](https://mushrifa-muzammil.github.io/portfolio/) |
 
 ---
 
