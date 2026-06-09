@@ -41,8 +41,8 @@
 | Introduction to Cybersecurity | Cisco Networking Academy |
 | Intro to Cybersecurity (Badge) | Cisco Networking Academy |
 | Web Design for Beginners | University of Moratuwa (CODL) |
+| Front End Web Development | University of Moratuwa (CODL) |
 | Python for Beginners | University of Moratuwa (CODL) |
-| Front End Web Development | Simplilearn |
 | AI Fundamentals: Foundations for Understanding AI | IBM SkillsBuild |
 | Front End Development | Simplilearn |
 | HTML Certification | Simplilearn |
