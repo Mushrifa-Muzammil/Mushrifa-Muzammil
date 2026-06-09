@@ -47,7 +47,6 @@
 | Front End Development | Simplilearn |
 | HTML Certification | Simplilearn |
 | PHP Certification | Simplilearn |
-| **jQuery (Newly Learning)** | **Self-paced / Online** |
 
 ---
 
