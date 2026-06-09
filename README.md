@@ -3,7 +3,7 @@
 ## Aspiring Junior Software Developer
 
 🎓 **BIT Undergraduate** @ University of Moratuwa  
-🔐 **Cyber Security & AI Certificate** @ MarsTech College  
+🔐 **Cyber Security & AI Diploma** @ MarsTech College  
 💻 Passionate about building web applications and solving real-world problems
 
 ---
@@ -12,10 +12,10 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Front-End** | HTML5, CSS3, Bootstrap |
-| **Back-End** | Python, JavaScript, PHP, SQL |
+| **Front-End** | HTML5, CSS3, Bootstrap, jQuery, React.js (Learning) |
+| **Back-End** | Python, JavaScript, PHP, SQL, Node.js |
 | **Programming Languages** | C, C#, Python, JavaScript, PHP, SQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, Linux, MS Office |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux Basics, REST APIs |
 
 ---
 
@@ -23,11 +23,14 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| **Sunrise Hotel** | Luxury hotel landing page with JavaScript interactivity | [View](https://mushrifa-muzammil.github.io/sunerise/) |
-| **Portfolio Website** | My personal portfolio showcasing skills and projects | [View](https://mushrifa-muzammil.github.io/portfolio/) |
-| **BMI Calculator** | Health tool using HTML, CSS, JavaScript, PHP | [GitHub](https://github.com/Mushrifa-Muzammil/BMI_Ass04_PHP) |
-| **Ice Cream Shop** | Responsive brand website | [GitHub](https://github.com/Mushrifa-Muzammil/Ice_Cream) |
-| **Organic Farming** | Bootstrap-based eco-friendly website | [GitHub](https://github.com/Mushrifa-Muzammil/boostrap_organic_farming) |
+| **AI Tools Showcase** | Modern website showcasing 12+ AI tools (ChatGPT, DeepSeek AI, Midjourney, DALL-E 3) with Glassmorphism | [Live Demo](https://mushrifa-muzammil.github.io/AI_Tools_Showcase/) |
+| **BMI Calculator** | PHP + JavaScript health tracker with real-time calculation | [Live Demo](https://mushrifa-muzammil.github.io/BMI_Ass04_PHP/) |
+| **Billing System** | Dynamic invoice system using PHP/HTML/CSS/JS | [Live Demo](https://mushrifa-muzammil.github.io/Data_Bill_Ass06_PHP/) |
+| **Ice Cream Shop** | Modern landing page with smooth UI and gallery | [Live Demo](https://mushrifa-muzammil.github.io/Ice_Cream/) |
+| **Organic Farming** | Responsive Bootstrap 5 website for agriculture | [Live Demo](https://mushrifa-muzammil.github.io/boostrap_organic_farming-/) |
+| **Portfolio Website** | My personal portfolio showcasing skills and projects | [Live Demo](https://mushrifa-muzammil.github.io/portfolio/) |
+
+> 💡 **Explore all my projects on [GitHub](https://github.com/Mushrifa-Muzammil)**
 
 ---
 
@@ -35,10 +38,16 @@
 
 | Certification | Issuer |
 |---------------|--------|
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| Intro to Cybersecurity (Badge) | Cisco Networking Academy |
+| Web Design for Beginners | University of Moratuwa (CODL) |
+| Python for Beginners | University of Moratuwa (CODL) |
+| Front End Web Development | Simplilearn |
 | AI Fundamentals: Foundations for Understanding AI | IBM SkillsBuild |
 | Front End Development | Simplilearn |
 | HTML Certification | Simplilearn |
 | PHP Certification | Simplilearn |
+| **jQuery (Newly Learning)** | **Self-paced / Online** |
 
 ---
 
@@ -47,9 +56,10 @@
 | Platform | Link |
 |----------|------|
 | **GitHub** | [github.com/Mushrifa-Muzammil](https://github.com/Mushrifa-Muzammil) |
-| **LinkedIn** | [linkedin.com/in/mushrifa-muzammil](https://linkedin.com/in/mushrifa-muzammil) |
+| **LinkedIn** | [linkedin.com/in/mushrifa-muzammil-a46678370](https://linkedin.com/in/mushrifa-muzammil-a46678370) |
 | **Email** | musrifa.musammil@gmail.com |
-| **portfolio** | [mushrifa-muzammil.github.io/portfolio](https://mushrifa-muzammil.github.io/portfolio/) |
+| **Portfolio** | [mushrifa-muzammil.github.io/portfolio](https://mushrifa-muzammil.github.io/portfolio/) |
+| **Instagram** | [@mushrifamuzammil](https://www.instagram.com/mushrifamuzammil) |
 
 ---
 
