@@ -1,57 +1,78 @@
-<div align="center">
+# 👋 Hi, I'm Mushrifa Muzammil
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1995/1995572.png" width="35" height="35" alt="Developer" style="vertical-align: middle;"> Hi, I'm Mushrifa Muzammil
+## Aspiring Junior Software Developer
 
-## <span style="background: linear-gradient(135deg, #3b82f6, #8b5cf6); background-clip: text; -webkit-background-clip: text; color: transparent; font-weight: 700;">✦ Aspiring Junior Software Developer ✦</span>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Enthusiast;Python+%7C+PHP+%7C+JavaScript+Developer;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
-
-</div>
+🎓 **BIT Undergraduate** @ University of Moratuwa  
+🔐 **Cyber Security & AI Diploma** @ MarsTech College  
+💻 Passionate about building web applications and solving real-world problems
 
 ---
 
-### 👩‍💻 About Me
+## 🚀 My Tech Stack
 
-```python
-class MushrifaMuzammil:
-    def __init__(self):
-        self.name = "Mushrifa Muzammil"
-        self.role = "Junior Software Developer"
-        self.education = {
-            "BIT Undergraduate": "🏫 University of Moratuwa (Starting June 2025)",
-            "Cyber Security & AI": "🔐 MarsTech College (Feb 2025 – Aug 2026)"
-        }
-        self.location = "📍 Kurunegala, Sri Lanka"
-        self.passion = "💡 Building web applications & solving real-world problems"
+| Category | Technologies |
+|----------|-------------|
+| **Front-End** | HTML5, CSS3, Bootstrap, jQuery, React.js (Learning) |
+| **Back-End** | Python, JavaScript, PHP, SQL, Node.js |
+| **Programming Languages** | C, C#, Python, JavaScript, PHP, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux Basics, REST APIs |
 
-<div align="center">
-Front-End
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+---
 
-Back-End
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+## 📌 Featured Projects
 
-Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=csharp&logoColor=white
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **AI Tools Showcase** | Modern website showcasing 12+ AI tools (ChatGPT, DeepSeek AI, Midjourney, DALL-E 3) with Glassmorphism | [Live Demo](https://mushrifa-muzammil.github.io/AI_Tools_Showcase/) |
+| **BMI Calculator** | PHP + JavaScript health tracker with real-time calculation | [Live Demo](https://mushrifa-muzammil.github.io/BMI_Ass04_PHP/) |
+| **Billing System** | Dynamic invoice system using PHP/HTML/CSS/JS | [Live Demo](https://mushrifa-muzammil.github.io/Data_Bill_Ass06_PHP/) |
+| **Ice Cream Shop** | Modern landing page with smooth UI and gallery | [Live Demo](https://mushrifa-muzammil.github.io/Ice_Cream/) |
+| **Organic Farming** | Responsive Bootstrap 5 website for agriculture | [Live Demo](https://mushrifa-muzammil.github.io/boostrap_organic_farming-/) |
+| **Portfolio Website** | My personal portfolio showcasing skills and projects | [Live Demo](https://mushrifa-muzammil.github.io/portfolio/) |
 
-Tools & Platforms
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS%2520Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+> 💡 **Explore all my projects on [GitHub](https://github.com/Mushrifa-Muzammil)**
 
-</div>
-    def daily_motto(self):
-        return "✨ Building, learning, and improving every day ✨"
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| Web Development Fundamentals | IBM |
+| Introduction to Cybersecurity | Cisco Networking Academy |
+| Intro to Cybersecurity (Badge) | Cisco Networking Academy |
+| Web Design for Beginners | University of Moratuwa (CODL) |
+| Front End Web Development | University of Moratuwa (CODL) |
+| Python for Beginners | University of Moratuwa (CODL) |
+| AI Fundamentals: Foundations for Understanding AI | IBM SkillsBuild |
+| Front End Development | Simplilearn |
+| HTML Certification | Simplilearn |
+| PHP Certification | Simplilearn |
+
+---
+
+## 📫 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| **GitHub** | [github.com/Mushrifa-Muzammil](https://github.com/Mushrifa-Muzammil) |
+| **LinkedIn** | [linkedin.com/in/mushrifa-muzammil-a46678370](https://linkedin.com/in/mushrifa-muzammil-a46678370) |
+| **Email** | musrifa.musammil@gmail.com |
+| **Portfolio** | [mushrifa-muzammil.github.io/portfolio](https://mushrifa-muzammil.github.io/portfolio/) |
+| **Instagram** | [@mushrifamuzammil](https://www.instagram.com/mushrifamuzammil) |
+
+---
+
+## 🎯 Current Goal
+
+> 🔍 Seeking a **Junior Software Developer** role where I can contribute, learn, and grow as a professional.
+
+---
+
+## ✨ Quote I Live By
+
+> *"Building, learning, and improving every day."*
+
+---
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and connect with me.
