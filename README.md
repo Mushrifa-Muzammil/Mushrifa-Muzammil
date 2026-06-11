@@ -38,6 +38,7 @@
 
 | Certification | Issuer |
 |---------------|--------|
+| Web Development Fundamentals | IBM |
 | Introduction to Cybersecurity | Cisco Networking Academy |
 | Intro to Cybersecurity (Badge) | Cisco Networking Academy |
 | Web Design for Beginners | University of Moratuwa (CODL) |
